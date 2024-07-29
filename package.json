@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@codecov/vite-plugin": "^0.0.1-beta.10",
     "vite": "^5.3.4"
   }
 }
